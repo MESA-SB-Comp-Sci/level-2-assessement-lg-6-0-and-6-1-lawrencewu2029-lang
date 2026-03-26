@@ -1,4 +1,42 @@
-* {
+ {
     box-sizing: border-box;
 }
 
+.highlight-pink{
+    background-color:pink;
+    color: white;
+}
+
+.p1{
+    color: orange;
+
+}
+
+body{
+    background-color: gray;
+}
+
+.p2{
+    color:yellowgreen;
+}
+
+.p3{
+    color:aquamarine
+}
+
+.border1{
+    background-color: white;
+    border: 5px solid orange;
+    
+    text-align: start;
+    
+
+}
+
+.white{
+    color:white;
+}
+
+#white{
+    color:white;
+}
